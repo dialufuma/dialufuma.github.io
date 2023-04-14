@@ -18,10 +18,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Education
 
-* M.Sc. in Statistics, 2021
-  Laval University
-* Bachelor's in Mathematics, 2016
-  University of Kinshasa
+* M.Sc. in Statistics, Laval University (2021)
+* Bachelor's in Mathematics,  University of Kinshasa (2016)
 
 # Research interests
 
