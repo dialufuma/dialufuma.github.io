@@ -23,7 +23,7 @@ email: maximilien.dialufuma.1@ulaval.ca
 myvariable: true
 google_analytics: G-7W95DVMKJ3
 description: >- # this means to ignore newlines until "baseurl:"
-  M.Sc in Statistics
+  M.Sc. in Statistics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
