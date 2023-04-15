@@ -26,5 +26,5 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 * Actuarial science
 * Data science
-* Probability
-* Statistics
+* Probability and Statistics
+
