@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 <div style="text-align: justify"> 
-<p>Welcome to my homepage !!!</p>
+<p>Welcome to my homepage!!!</p>
  
 <p>I'm working as a research assistant (statistician/data manager) at the Centre de Médecine Comportementale de Montréal (CIUSSS-NIM/UQAM/CONCORDIA research laboratory).</p>
 <p>I obtained a master’s degree in Statistics from Laval University in 2021 and a bachelor’s degree in Mathematics from the University of Kinshasa with honors in 2016. I'm passionate about research and work in actuarial science, data science, probability and statistics.</p>
